@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "806670702191",
+    "firebase_url": "https://naverapi-c097a.firebaseio.com",
+    "project_id": "naverapi-c097a",
+    "storage_bucket": "naverapi-c097a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806670702191:android:7817df36f5a2d5f8",
+        "android_client_info": {
+          "package_name": "com.example.ruath.naverapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806670702191-3nqgs0nbp7o1o3gdg9nn9l7sg967ur7q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3XK4gT-xPQIZBjPh8j1cgN8vWgoA-nFc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
